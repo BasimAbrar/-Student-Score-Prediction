@@ -1,8 +1,5 @@
 # -Student-Score-Prediction
 Predict student exam scores using regression models. Compares Linear vs Polynomial Regression with feature engineering. Best results: Linear Regression with 10 features (R² = 0.614).
-# Student Score Prediction
-
-This project predicts **student exam scores** using regression models and performance factors such as study hours, sleep, and participation. The goal is to evaluate how different features and model choices impact prediction accuracy.
 
 ## Dataset
 
